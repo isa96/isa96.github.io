@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/static/js/main.090b6991.chunk.js",
+    "main.js.map": "/static/js/main.090b6991.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4922375.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4922375.js.map",
+    "static/js/2.ea305df0.chunk.js": "/static/js/2.ea305df0.chunk.js",
+    "static/js/2.ea305df0.chunk.js.map": "/static/js/2.ea305df0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ac8366099130ac40e08b90ce9ad0a5ee.js": "/precache-manifest.ac8366099130ac40e08b90ce9ad0a5ee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.ea305df0.chunk.js.LICENSE.txt": "/static/js/2.ea305df0.chunk.js.LICENSE.txt",
+    "static/media/Google.png": "/static/media/Google.38d369e8.png",
+    "static/media/cats.png": "/static/media/cats.0b4742bb.png",
+    "static/media/cosmetic.png": "/static/media/cosmetic.dabc23cf.png",
+    "static/media/credit_card.png": "/static/media/credit_card.02be168e.png",
+    "static/media/doctor.png": "/static/media/doctor.18c7be41.png",
+    "static/media/dome.png": "/static/media/dome.b7a4bcf7.png",
+    "static/media/gp.png": "/static/media/gp.7fd85796.png",
+    "static/media/mask.png": "/static/media/mask.5536f5bd.png",
+    "static/media/money.png": "/static/media/money.549ccf31.png",
+    "static/media/netflix.png": "/static/media/netflix.17cd2472.png",
+    "static/media/save.png": "/static/media/save.e1770bd1.png",
+    "static/media/scala.png": "/static/media/scala.88768ebf.png",
+    "static/media/ws.png": "/static/media/ws.1a4d4e96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4922375.js",
+    "static/js/2.ea305df0.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.090b6991.chunk.js"
+  ]
+}

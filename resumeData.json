@@ -1,0 +1,103 @@
+{
+  "main": {
+    "firstname":"Izzan",
+    "lastname": "Silmi Aziz",
+    "description":"I am a aspiring Software Engineer, with experience in full-stack development, machine learning, scripting, and automation. I am motivated by my passion for learning new technologies and perfecting my craft. I will never shy away from a challenge and I will always approach tasks with a positive attitude and a willingness to collaborate, explain, and take criticism to continue to improve.",
+    "image":"i.jpg",
+    "bio":"Completed more than 20+ various projects related to embedded systems, machine learning, and data analysis. Including created a hardware prototype, a smart door lock system using RFID, a portable IoT-based prototype, a firefighter robot prototype, a web application, a firmware for a microcontroller. Also, created a machine learning model for vehicle registration plate detection, lung cancer cell detection, image noise reduction. And performed data analysis for market-based analysis, customer segmentation, customer churn prediction, credit risk analysis, business decision research, and data analysis for COVID19 in Indonesia, ASEAN, and the world.",
+    "email": "izzan.abad@gmail.com",
+    "github":"https://github.com/isa96",
+    "linkedin":"https://www.linkedin.com/in/izzan-silmi-aziz-294836142/",
+    "linkedinurl": "https://www.linkedin.com/in/izzan-silmi-aziz-294836142/",
+    "social":[
+      {
+        "name":"email",
+        "url":"mailto:izzan.abad@gmail.com",
+        "className":"fa fa-envelope fa-2x mb-3"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/isa96",
+        "className":"fa fa-github fa-2x mb-3"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/izzan-silmi-aziz-294836142",
+        "className":"fa fa-linkedin fa-2x mb-3"
+      },
+      {
+        "name":"hackerrank",
+        "url":"https://www.hackerrank.com/izzansilmiaziz",
+        "className":"fa fa-code fa-2x mb-3"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Universitas Muhammadiyah Malang",
+        "degree":"Bachelor of Electrical Engineering",
+        "graduated":"SEP 2015 - APR 2020",
+        "description":"GPA : 3.72/4.0", 
+        "description2":"Thesis : Telecontrol Implementation Of Hexapod Spy Robot Movement Using Wifi Based On Web Server"
+      }
+    ],
+    "patens":[
+      {
+        "school":"Universitas Muhammadiyah Malang",
+        "degree":"Bachelor of Electrical Engineering",
+        "released":"MAY 2018 - AUG 2018",
+        "description":"Wahyu Andhyka Kusuma, Diah Risqiwati, Evi Dwi Wahyuni, Lailatul Husniah, Izzan Silmi Aziz, Ghufron Wahyu Kurniawan dan Abdul Sukron.2017. SAVE (Survival Vest for Mountaineer). EC00201700017."
+      }
+    ],
+    "work":[
+      {
+        "company":"PT. Nanosense Instrument Indonesia",
+        "title":"Artificial Intelligence Engineer",
+        "years":"AUG 2021 - AUG 2022",
+        "years1":"SEP 2021 - AUG 2022",
+        "years2":"FEB 2022 - AUG 2022",
+        "project":"GENOSE C-19",
+        "project2":"MINI ENOSE",
+        "description":"Used more than 1000 tabular data for the dataset.",
+        "description2":"Utilized Pandas, Numpy, and Mito to preprocess the tabular data for a cleaner dataset.",
+        "description3":"Utilized Tensorflow, Keras, PyTorch and Scikit-learn to train the model with the machine learning / deep learning algorithm for covid-19 detection.",
+        "description4":"Utilized MLFlow to manage the model for deploying into production.",
+        "description5":"Built a dekstop application GUI with PySide6 for interaction with the model.",
+        "description6":"Google Colaboratory, Matplotlib, Pandas, TensorFlow, Scikit-learn, PySide6, Numpy, Mito, Pandas Profiling, Seaborn, Bokeh, Plotly, Keras, PyTorch, MLFlow, Apache Superset, Google Data Studio, PowerBi, Tableau, Scipy, OpenCV, Git.",
+        
+        "description7":"Built API for the microcontroller to send the sensors data to the database.",
+        "description8":"Utilized MongoDB to capture the sensors data.",
+        "description9":"Utilized NodeJS to integrate API for the sensors data.",
+        "description10":"Developed a web-dashboard with VueJS for interaction the sensors data.",
+        "description11":"Implemented CI/CD to manage the code for deploying into production.",
+        "description12":"ESP32, ArduinoIDE, HTTP, MongoDB, NodeJS, VueJS, Jest, GCP, AWS, Netlify, Git",
+        "parttime":false
+      },
+      {
+        "company":"FREELANCE",
+        "title":"Data & Machine Learning Engineer",
+        "years":"MAR 2019 - AUG 2021",
+        "years1":"JAN 2021 - FEB 2021",
+        "years2":"JAN 2021 - FEB 2021",
+        "project":"LUNG CANCER PREDICTOR",
+        "project2":"DENOISE IMAGE WITH DEEP CNN",
+        "description":"Used more than 600 images for the dataset.",
+        "description2":"Utilized OpenCV to preprocess the images for a cleaner dataset.",
+        "description3":"Utilized TensorFlow to train the model with the convolution neural network algorithm for lung cancer cell detection.",
+        "description4":"Utilized Scikit-learn to validate the model for measuring accuracy, and it reaches 96%.",
+        "description5":"Built a web-based GUI with Flask for interaction with the model.",
+        "description6":"Google Colaboratory, Matplotlib, Pandas, TensorFlow, Scikit-learn, Flask and OpenCV.",
+
+        "description7":"Used 1000 images for the dataset.",
+        "description8":"Utilized OpenCV to preprocess the images for a cleaner dataset.",
+        "description9":"Utilized Gaussian noise to add noise to the images.",
+        "description10":"Implemented three denoise algorithms (mean, median, wiener) to compare for obtaining the best result.",
+        "description11":"Obtained accurate result with the mean algorithm as the error rate is the smallest.",
+        "description12":"Jupyter Notebook, Matplotlib, Pandas, Keras, Scipy, and OpenCV",
+        "parttime":false
+      }
+    ]
+    
+  }
+}
