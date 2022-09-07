@@ -157,6 +157,14 @@ class Resume extends Component {
                     <b>2022</b>
                   </th>
                   <td colSpan="3">
+                    <a href="https://drive.google.com/file/d/1k7c0sax3NtiXb5uxHcPv61xqkOfINBZ7/view?usp=sharing" target="_blank" rel="noopener noreferrer">Machine Learning Course Certifications</a>
+                  </td>
+                </tr>
+                <tr>
+                  <th style={{ textAlign: "left", minWidth: "120px" }}>
+                    <b>2022</b>
+                  </th>
+                  <td colSpan="3">
                     <a href="https://drive.google.com/file/d/10Q4C10FmBqBmMQD5QQjxVRJHHhK4Kmte/view?usp=sharing" target="_blank" rel="noopener noreferrer">Cloud Digital Leader Course Certifications</a>
                   </td>
                 </tr>
